@@ -1,0 +1,37 @@
+Bootstrap5 features
+1> html css js framework
+2> free 
+3> highly customizable
+4> Responsive grid system
+5> Responsive image
+6> in built components ( navbar, mobile menu)
+7> can be extended (adding plugins)
+
+What's new??
+1> no jquery
+2> vanilla js
+3> responsive font size
+4> change gutter width (spacing between columns)
+5> card desk removed
+6> navbar optimizatiom
+7> custom SVG icon lib
+8> class updates
+
+Break Points
+BREAKPOINT             CLASS INFIX
+x-small                 none
+small                    sm          
+medium                   md
+large                    lg
+extra large              xl
+extra extra large        xxl
+
+
+Containers
+.container
+.container-sm
+.container-md
+.container-lg
+.container-xl
+.container-xxl
+.container-fluid
